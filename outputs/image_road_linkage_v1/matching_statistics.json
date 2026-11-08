@@ -1,0 +1,31 @@
+{
+  "image_total": 5920,
+  "image_to_point_and_road_matched": 5920,
+  "image_to_point_and_road_match_rate": 1.0,
+  "unmatched_image_count": 0,
+  "point_total": 6879,
+  "points_with_image": 5920,
+  "roads_total": 1537,
+  "roads_with_image": 1440,
+  "images_by_fclass": {
+    "secondary": 1325,
+    "primary": 3193,
+    "tertiary": 1402
+  },
+  "exact_duplicate_image_count": 383,
+  "duplicate_cross_road_count": 379,
+  "max_exact_duplicate_point_distance_m": 31.01,
+  "sample_size": 30,
+  "sample_by_fclass": {
+    "primary": 10,
+    "secondary": 10,
+    "tertiary": 10
+  },
+  "sample_file_match_count": 30,
+  "sample_decode_pass_count": 30,
+  "sample_road_scene_count": 29,
+  "sample_scene_uncertain_count": 1,
+  "sample_road_location_independently_verified_count": 0,
+  "sample_priority_manual_review_count": 3,
+  "sample_exif_gps_count": 0
+}

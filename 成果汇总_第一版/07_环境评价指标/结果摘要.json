@@ -1,0 +1,15 @@
+{
+  "roads": 1537,
+  "roads_with_retained_images": 1340,
+  "valid_speed_roads": 155,
+  "visual_subindex_roads": 304,
+  "complete_index_roads": 46,
+  "weight_sensitive_roads": 31,
+  "groups": {
+    "中间": 12,
+    "相对偏低": 10,
+    "相对较低": 10,
+    "相对偏高": 10,
+    "相对较高": 4
+  }
+}

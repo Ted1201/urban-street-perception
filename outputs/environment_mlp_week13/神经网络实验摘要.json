@@ -1,0 +1,59 @@
+{
+  "max_epochs": 600,
+  "patience": 50,
+  "min_delta_MAE": 0.0001,
+  "seeds": [
+    42,
+    52,
+    62
+  ],
+  "main_seed": 42,
+  "trials": 96,
+  "selection": "mean validation MAE across three seeds; main result fixed seed42; test not used in selection",
+  "feature_sets": {
+    "road_only": [
+      "fclass",
+      "structure_group",
+      "oneway",
+      "layer"
+    ],
+    "road_context": [
+      "fclass",
+      "structure_group",
+      "oneway",
+      "layer",
+      "building_context",
+      "sky_context",
+      "person_context"
+    ]
+  },
+  "versions": {
+    "python": "3.12.4",
+    "sklearn": "1.7.2"
+  },
+  "baseline_input_sha256": {
+    "训练验证测试划分.csv": "84a88afcaa11b141f7fc2c338c72a8a94589464564ffd4c916462c13b08a1866",
+    "训练尺度目标值.csv": "82c133f60e1801de0c50ca277ebd0ce59a03216390a1d2be10f7592b327832ea",
+    "基线模型评价指标.csv": "e0ba1e988407c00764710d0f96260bf168525c41a8198ce28024762c0baf2765"
+  },
+  "selected": {
+    "visual_proxy": {
+      "feature_set": "road_context",
+      "config_id": "C08",
+      "validation_MAE_seed_mean": 10.428111218874081,
+      "test_MAE": 11.116677700791223,
+      "test_RMSE": 13.713026504665507,
+      "test_R2": 0.47099264409427954,
+      "test_n": 73
+    },
+    "complete_proxy": {
+      "feature_set": "road_only",
+      "config_id": "C01",
+      "validation_MAE_seed_mean": 13.416729198024811,
+      "test_MAE": 13.652093410483262,
+      "test_RMSE": 18.35840108843039,
+      "test_R2": 0.11785884854100415,
+      "test_n": 7
+    }
+  }
+}

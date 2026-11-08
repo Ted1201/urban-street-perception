@@ -1,0 +1,89 @@
+{
+  "n_image_rows": 5920,
+  "n_unique_sha256": 5537,
+  "n_success_images": 5920,
+  "n_failed_images": 0,
+  "n_auto_pass": 1842,
+  "n_needs_review": 4078,
+  "n_review_rows": 4107,
+  "n_statistical_tail_rows": 149,
+  "n_cross_road_exact_duplicate": 747,
+  "median_unique_inference_sec": 0.8193638001102954,
+  "mean_unique_inference_sec": 1.3920676323986587,
+  "sum_unique_inference_sec": 7707.878480591374,
+  "fclass_counts": {
+    "primary": 3193,
+    "tertiary": 1402,
+    "secondary": 1325
+  },
+  "flag_counts": {
+    "bridge_building_review": 117,
+    "vehicle_overlap_review": 2481,
+    "pedestrian_uncertain_review": 981,
+    "sky_building_seam_conflict": 798,
+    "cross_road_exact_duplicate": 747,
+    "tile_disagreement_high": 599,
+    "region_boundary_review": 584,
+    "tunnel_vegetation_review": 143,
+    "zero_sky_high_vegetation_review": 87,
+    "source_priority_manual_review": 3
+  },
+  "statistical_upper_99_5pct_by_fclass": {
+    "primary": {
+      "vegetation_share": 0.5161333075197384,
+      "building_share": 0.6203683853959326,
+      "sky_share": 0.733426701140083,
+      "motor_vehicle_count": 38.0,
+      "person_count": 34.38499999999976
+    },
+    "secondary": {
+      "vegetation_share": 0.5435087379190997,
+      "building_share": 0.6354602318592976,
+      "sky_share": 0.6712213925242171,
+      "motor_vehicle_count": 42.690000000000055,
+      "person_count": 46.0
+    },
+    "tertiary": {
+      "vegetation_share": 0.5576330099895489,
+      "building_share": 0.6889271920130592,
+      "sky_share": 0.645245795874248,
+      "motor_vehicle_count": 43.0,
+      "person_count": 33.25499999999988
+    }
+  },
+  "run_wall_sec": 87.32073870000022,
+  "new_unique_processed": 53,
+  "model_load_sec": 8.561113099999602,
+  "python": "3.12.4",
+  "python_executable": "C:\\Users\\25142\\anaconda3\\python.exe",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "versions": {
+    "torch": "2.8.0+cu126",
+    "transformers": "5.5.4",
+    "ultralytics": "8.4.183",
+    "pillow": "10.3.0",
+    "numpy": "1.26.4",
+    "pandas": "2.3.2"
+  },
+  "seg_model_commit": "d633b2072669ca68d8f8e309de9b52bfdbf6bf72",
+  "yolo_weight_sha256": "85a76fe86dd8afe384648546b56a7a78580c7cb7b404fc595f97969322d502d5",
+  "parameters": {
+    "preprocess_version": "macau_streetview_full_v1",
+    "bottom_exclusion_fraction": 0.08,
+    "tile_width_px": 1024,
+    "tile_step_px": 768,
+    "seg_input_height_px": 768,
+    "seg_input_width_px": 1024,
+    "det_imgsz": 1024,
+    "det_conf": 0.25,
+    "det_iou_within_tile": 0.5,
+    "det_iou_cross_tile": 0.5,
+    "pedestrian_min_semantic_pixels": 100,
+    "pedestrian_person_ratio": 0.7,
+    "rider_max_person_ratio": 0.3,
+    "model_seg": "nvidia/segformer-b2-finetuned-cityscapes-1024-1024",
+    "model_det": "yolo11s.pt"
+  },
+  "inference_precision": "fp32"
+}

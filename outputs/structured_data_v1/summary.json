@@ -1,0 +1,21 @@
+{
+  "source_archive": "E:\\毕业设计\\数据集\\澳门123级道路30m5920张备份照片-截至2026.1最新.rar",
+  "source_workbook": "E:\\毕业设计\\outputs\\structured_data_v1\\source\\澳门123级道路30m5920张备份照片-截至2026.1最新\\P-30M-MACAUPST.xlsx",
+  "source_sheet": "gis_osm_roads_free_1_123_Genera",
+  "road_count": 1537,
+  "sampling_point_count": 6879,
+  "image_count": 5920,
+  "unique_image_hash_count": 5537,
+  "matched_image_count": 5920,
+  "orphan_image_count": 0,
+  "duplicate_source_record_count": 0,
+  "duplicate_coordinate_count": 0,
+  "abnormal_coordinate_count": 0,
+  "issue_counts": {
+    "duplicate_image_bytes": 383,
+    "missing_road_name": 69,
+    "missing_road_ref": 1537
+  },
+  "coordinate_screen": "113.50<=longitude<=113.65 and 22.08<=latitude<=22.25; preliminary only",
+  "image_bytes": 4045768335
+}

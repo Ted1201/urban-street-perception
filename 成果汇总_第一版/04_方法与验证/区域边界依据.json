@@ -1,0 +1,40 @@
+{
+  "retrieved_date": "2026-10-19",
+  "source": "OpenStreetMap contributors via Nominatim",
+  "license": "ODbL",
+  "regions": {
+    "fatima": {
+      "name": "花地瑪堂區 Nossa Senhora de Fátima, 澳門 Macau, 中国",
+      "url": "https://www.openstreetmap.org/relation/9506156"
+    },
+    "antonio": {
+      "name": "花王堂區 Santo António, 澳門 Macau, 中国",
+      "url": "https://www.openstreetmap.org/relation/9506168"
+    },
+    "lazaro": {
+      "name": "望德堂區 São Lázaro, 澳門 Macau, 中国",
+      "url": "https://www.openstreetmap.org/relation/12107628"
+    },
+    "lourenco": {
+      "name": "風順堂區 São Lourenço, 澳門 Macau, 中国",
+      "url": "https://www.openstreetmap.org/relation/12107629"
+    },
+    "se": {
+      "name": "大堂區 Sé, 澳門 Macau, 中国",
+      "url": "https://www.openstreetmap.org/relation/12107627"
+    },
+    "taipa": {
+      "name": "氹仔 Taipa, 澳門 Macau, 中国",
+      "url": "https://www.openstreetmap.org/relation/5758868"
+    },
+    "cotai": {
+      "name": "路氹填海區 Zona do Aterro de Cotai, 澳門 Macau, 999078, 中国",
+      "url": "https://www.openstreetmap.org/relation/5758867"
+    },
+    "coloane": {
+      "name": "路環 Coloane, 澳門 Macau, 中国",
+      "url": "https://www.openstreetmap.org/relation/5758869"
+    }
+  },
+  "point_crs_assumption": "WGS84, original source CRS not supplied"
+}

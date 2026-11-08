@@ -1,0 +1,18 @@
+{
+  "image_rows": 5920,
+  "source_rows": 5920,
+  "source_id_mismatch": 0,
+  "sample_id_mismatch": 0,
+  "sha256_mismatch": 0,
+  "relative_path_mismatch": 0,
+  "road_id_mismatch": 0,
+  "image_files_missing": 0,
+  "required_feature_null_cells": 0,
+  "share_out_of_range_rows": 0,
+  "share_sum_over_one_rows": 0,
+  "negative_count_rows": 0,
+  "duplicate_feature_conflict_groups": 0,
+  "failed_image_rows": 0,
+  "anomaly_rows": 4107,
+  "anomaly_ids_outside_full_table": 0
+}

@@ -1,0 +1,31 @@
+# Local environments and credentials
+.idea/
+.vscode/
+.openai/
+**/.openai/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+*.log
+*.lnk
+*.url
+
+# Raw images and external pretrained weights
+/数据集/
+/outputs/structured_data_v1/source/
+/outputs/street_view_feature_pilot_v1/weights/
+
+# Generated local website files; restore with python prepare_web.py
+/web-prototype/dist/photos/
+/web-prototype/dist/offline.html
+/web-prototype/dist/macau-streets.html
+
+# Workstation intermediates and duplicate release bundles
+/tmp/
+/docx_render/
+/output/

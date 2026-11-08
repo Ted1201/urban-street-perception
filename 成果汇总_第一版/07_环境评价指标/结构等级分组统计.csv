@@ -1,0 +1,10 @@
+﻿structure_group,fclass,中间,相对偏低,相对偏高,相对较低,相对较高,
+普通道路,primary,3,6,3,1,1,736
+普通道路,secondary,4,0,3,0,2,321
+普通道路,tertiary,1,1,0,0,1,351
+桥梁,primary,3,1,0,9,0,47
+桥梁,secondary,0,2,2,0,0,9
+桥梁,tertiary,1,0,2,0,0,1
+隧道,primary,0,0,0,0,0,20
+隧道,secondary,0,0,0,0,0,5
+隧道,tertiary,0,0,0,0,0,1

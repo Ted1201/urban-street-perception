@@ -1,0 +1,37 @@
+/* Keep motion concentrated on a small number of points; preserve map nodes. */
+#mapViewport{transform-origin:0 0;transition:transform .44s cubic-bezier(.2,.75,.25,1)}
+#mapViewport.is-dragging{transition:none}
+.roadpoint{transition:fill .45s ease,stroke .2s ease,stroke-width .2s ease;outline:none}
+.roadpoint:hover,.roadpoint:focus-visible{stroke:#1d563f;stroke-width:2.4}
+.roadpoint.is-selected{stroke:#1a4738;stroke-width:1.7}
+body[data-motion=on] .roadpoint.is-alive{animation:point-breathe 4.5s ease-in-out infinite}
+.focus-wash{fill:#92bc79;opacity:.18}
+.focus-core{fill:#255c42;stroke:#f9ffed;stroke-width:1.5}
+.focus-ring{fill:none;stroke:#598e58;stroke-width:1.1;opacity:.45}
+body[data-motion=on] .focus-ring{animation:map-ripple 3.2s ease-out infinite}
+body[data-motion=on] .ring-two{animation-delay:-1.6s}
+@keyframes map-ripple{0%{r:7px;opacity:.7;stroke-width:1.5}100%{r:21px;opacity:0;stroke-width:.4}}
+@keyframes point-breathe{0%,100%{opacity:.7}50%{opacity:1}}
+#mapTooltip{position:absolute;z-index:4;pointer-events:none;background:#fffef8f2;backdrop-filter:blur(8px);border:1px solid #dbe6d1;box-shadow:0 7px 24px #1d482b14;border-radius:8px;padding:11px 13px;width:235px;font-size:10px;color:#274832}
+#mapTooltip b{display:block;max-width:210px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-weight:500}
+#mapTooltip span{display:block;color:#7b9075;font-size:9px;margin-top:6px}
+body[data-motion=on] #mapTooltip{animation:tooltip-arrive .18s ease-out}
+@keyframes tooltip-arrive{from{opacity:0;translate:0 4px}to{opacity:1;translate:0 0}}
+button,nav a,.roadrow,.card,.photocard img{transition:background .2s ease,border-color .2s ease,box-shadow .2s ease,transform .25s ease}
+button:active{transform:translateY(1px)}
+nav a:hover{background:#294f40;transform:translateX(2px)}
+.kpi:hover{transform:translateY(-3px);box-shadow:0 7px 18px #1e4b2d0a}
+.photocard img:hover{transform:scale(1.025)}
+body[data-motion=on] .roadrow{animation:row-arrive .35s ease backwards}
+body[data-motion=on] .roadrow:nth-child(2){animation-delay:.025s}
+body[data-motion=on] .roadrow:nth-child(3){animation-delay:.05s}
+body[data-motion=on] .roadrow:nth-child(4){animation-delay:.075s}
+body[data-motion=on] .kpi{animation:row-arrive .5s ease backwards}
+body[data-motion=on] .kpi:nth-child(2){animation-delay:.04s}
+body[data-motion=on] .kpi:nth-child(3){animation-delay:.08s}
+body[data-motion=on] .kpi:nth-child(4){animation-delay:.12s}
+body[data-motion=on] dialog[open]{animation:row-arrive .24s ease-out}
+@keyframes row-arrive{from{opacity:0;translate:0 7px}to{opacity:1;translate:0 0}}
+.scorebar i{transition:width .6s cubic-bezier(.2,.75,.25,1)}
+body[data-motion=off] *,body[data-motion=off] *::before,body[data-motion=off] *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+@media(prefers-reduced-motion:reduce){body:not([data-motion=on]) *,body:not([data-motion=on]) *::before,body:not([data-motion=on]) *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}

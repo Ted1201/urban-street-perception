@@ -1,0 +1,8 @@
+{
+  "trials": 96,
+  "epochs_recorded": 10373,
+  "baseline_inputs_unchanged": true,
+  "target_scaler_train_only_checked": true,
+  "selected_model_reload_prediction_match": "verified in training script",
+  "notebook_executed": true
+}

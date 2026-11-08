@@ -1,0 +1,7 @@
+{
+  "grid_overlap_between_splits": false,
+  "model_reload_predictions_match": true,
+  "normalization_fitted_train_only": true,
+  "notebook_executed_without_error": true,
+  "split_rows": 304
+}

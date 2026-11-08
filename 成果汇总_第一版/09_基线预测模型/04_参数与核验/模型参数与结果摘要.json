@@ -1,0 +1,103 @@
+{
+  "seed": 43,
+  "split_rule": "0.005 degree grid groups; approximate 60/20/20; no spatial buffer",
+  "features": {
+    "road_only": [
+      "fclass",
+      "structure_group",
+      "oneway",
+      "layer"
+    ],
+    "road_context": [
+      "fclass",
+      "structure_group",
+      "oneway",
+      "layer",
+      "building_context",
+      "sky_context",
+      "person_context"
+    ]
+  },
+  "target_normalization": "train-only q05/q95 clipped minmax; equal weights; vehicle log1p",
+  "normalizers": {
+    "visual_proxy": {
+      "green_median": {
+        "q05": 0.014376867770811175,
+        "q95": 0.3056060942199663,
+        "log1p": false,
+        "reverse": false
+      },
+      "vehicle_median": {
+        "q05": 0.0,
+        "q95": 2.957262302763328,
+        "log1p": true,
+        "reverse": true
+      }
+    },
+    "complete_proxy": {
+      "green_median": {
+        "q05": 0.009957067188605801,
+        "q95": 0.3457139454576366,
+        "log1p": false,
+        "reverse": false
+      },
+      "vehicle_median": {
+        "q05": 0.0,
+        "q95": 2.4699427564797034,
+        "log1p": true,
+        "reverse": true
+      },
+      "speed_valid": {
+        "q05": 40.0,
+        "q95": 60.0,
+        "log1p": false,
+        "reverse": true
+      }
+    }
+  },
+  "selected": {
+    "visual_proxy": {
+      "feature_set": "road_context",
+      "model": "linear",
+      "parameters": {},
+      "validation_MAE": 11.405382505692165,
+      "counts": {
+        "train": 176,
+        "test": 73,
+        "validation": 55
+      },
+      "test_metrics": {
+        "MAE": 10.562698426088359,
+        "RMSE": 13.932863064862664,
+        "R2": 0.45389542137779015,
+        "n": 73
+      }
+    },
+    "complete_proxy": {
+      "feature_set": "road_context",
+      "model": "linear",
+      "parameters": {},
+      "validation_MAE": 21.813688486428738,
+      "counts": {
+        "train": 26,
+        "validation": 13,
+        "test": 7
+      },
+      "test_metrics": {
+        "MAE": 12.981246959863816,
+        "RMSE": 14.525760856553479,
+        "R2": 0.4477367375693726,
+        "n": 7
+      }
+    }
+  },
+  "versions": {
+    "python": "3.12.4",
+    "sklearn": "1.7.2"
+  },
+  "grid_counts": {
+    "test": 19,
+    "train": 55,
+    "validation": 19
+  }
+}

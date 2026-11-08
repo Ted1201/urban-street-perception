@@ -1,0 +1,14 @@
+# 在 PyCharm 中运行
+
+1. 用 PyCharm 打开 `E:\毕业设计` 项目，再打开本目录中的 `澳门街道基础对比分析.ipynb`。
+2. 选择已有解释器 `C:\Users\25142\anaconda3\python.exe` 对应的 Jupyter 内核。该环境已安装本 Notebook 所需库，并已完成全量执行验证。
+3. 按顺序运行所有单元格。Notebook 已保存实际执行结果、统计表和内嵌图像，也可先直接阅读。
+4. 重新计算后的 PNG、CSV 和初步发现会保存到 `outputs/notebook_analysis/`。
+
+如果另建解释器，可用该解释器执行 `python -m pip install -r notebooks/requirements.txt`。依赖文件记录本次验证环境的版本。PyCharm 需要启用 Jupyter Notebook 支持；具体内核入口随安装版本而异。
+
+Notebook 从项目内的原始结构化表与已保存的四区域多边形重新计算，不依赖临时脚本，也不需要再次联网下载边界。请保留 `outputs/structured_data_v1/tables/` 和 `outputs/basic_street_comparison_v1/region_boundaries.geojson`、`boundary_sources.json`。
+
+制图库：Matplotlib 绘制数量、原始长度与区域分布；Seaborn 绘制限速分布和区域等级热力图。Pandas 用于读取、关联与分组统计；Shapely 和 PyProj 用于区域归属及边界距离计算。
+
+长度和限速单位、区域坐标假设及无照片点的处理口径均在 Notebook 中注明。需要改区域复核距离时，修改 `NEAR_BOUNDARY_M` 后重新运行后续单元格。

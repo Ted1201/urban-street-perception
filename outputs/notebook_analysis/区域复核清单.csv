@@ -1,0 +1,195 @@
+﻿road_id,source_orig_fid,osm_id,code,fclass,name,ref,oneway,maxspeed,layer,bridge,tunnel,shape_length,sample_count,image_count,region,region_review,structure,speed_positive,speed_is_zero
+MC-R00001,1,22988070,5114,secondary,嘉樂庇總督大橋 Ponte Governador Nobre de Carvalho,,B,60,2,T,F,0.0225152706276766,77,2,澳门半岛,True,桥梁,60.0,False
+MC-R00014,14,41897257,5113,primary,北安大馬路 Estrada de Pac On,,F,60,0,F,F,0.0012598679028011,4,4,氹仔,True,普通道路,60.0,False
+MC-R00022,22,46510030,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0004843531739867,1,1,路氹,True,普通道路,,True
+MC-R00031,31,46510094,5113,primary,西灣大橋 Ponte de Sai Van,,F,80,5,T,F,0.0128593913058689,44,44,未归区/跨区,True,桥梁,80.0,False
+MC-R00034,34,51873706,5113,primary,路氹連貫公路 Estrada do Istmo,,F,0,0,F,F,0.0004014588785335,1,1,路氹,True,普通道路,,True
+MC-R00040,40,108309150,5113,primary,蓮花海濱大馬路 Avenida Marginal Flor de Lótus,,F,0,0,F,F,0.0004937392679688,1,1,路氹,True,普通道路,,True
+MC-R00041,41,108309156,5114,secondary,九澳高頂馬路 Estrada do Altinho de Ká Hó,,F,0,0,F,F,0.0007089288050037,2,2,路环,True,普通道路,,True
+MC-R00069,69,138191481,5113,primary,蓮花路 Estrada Flor de Lótus,,F,0,0,F,F,0.0043840698804079,15,15,路氹,True,普通道路,,True
+MC-R00070,70,138191483,5113,primary,奧林匹克游泳館圓形地 Rotunda da Piscina Olímpica,,F,0,0,F,F,0.0003907726444988,1,1,路氹,True,普通道路,,True
+MC-R00086,86,138191502,5114,secondary,霍英東博士大馬路 Avenida Doutor Henry Fok,,F,0,0,F,F,0.0047679540416616,16,16,路氹,True,普通道路,,True
+MC-R00090,90,138191507,5113,primary,路氹連貫公路 Estrada do Istmo,,F,0,0,F,F,0.0060768298328128,20,20,路氹,True,普通道路,,True
+MC-R00103,103,138278264,5113,primary,蘇利安圓形地行車天橋 Viaduto na Rotunda de Leonel de Sousa,,F,0,0,F,F,0.0007803622125344,2,2,氹仔,True,普通道路,,True
+MC-R00106,106,138278267,5113,primary,海洋花園大馬路 Avenida dos Jardins do Oceano,,F,0,0,F,F,0.001499921958971,5,5,氹仔,True,普通道路,,True
+MC-R00109,109,138278270,5114,secondary,,,F,0,0,F,F,0.0004253742763228,1,0,氹仔,True,普通道路,,True
+MC-R00233,233,164166938,5113,primary,西灣大橋 Ponte de Sai Van,,F,80,5,T,F,0.0128524479700555,44,44,未归区/跨区,True,桥梁,80.0,False
+MC-R00425,425,183607323,5115,tertiary,學院路 Rua do Colégio,,F,0,0,F,F,0.0014699795522017,5,5,氹仔,True,普通道路,,True
+MC-R00443,443,183691694,5114,secondary,霍英東博士大馬路 Avenida Doutor Henry Fok,,F,0,0,F,F,0.0027689763968816,9,9,路氹,True,普通道路,,True
+MC-R00444,444,183691695,5114,secondary,霍英東博士大馬路 Avenida Doutor Henry Fok,,F,0,0,F,F,0.0026786464423184,9,9,路氹,True,普通道路,,True
+MC-R00478,478,183749849,5114,secondary,,,F,0,0,F,F,0.000305221201605,1,1,氹仔,True,普通道路,,True
+MC-R00572,572,184378295,5114,secondary,霍英東博士大馬路 Avenida Doutor Henry Fok,,F,0,0,F,F,0.0013535929845197,4,4,氹仔,True,普通道路,,True
+MC-R00889,889,208241178,5113,primary,友誼大橋 Ponte da Amizade,,F,80,1,T,F,0.0015181924864884,5,5,氹仔,True,桥梁,80.0,False
+MC-R00897,897,208241195,5113,primary,奧林匹克游泳館圓形地 Rotunda da Piscina Olímpica,,F,0,0,F,F,0.0003480992917126,1,1,氹仔,True,普通道路,,True
+MC-R00915,915,208241257,5113,primary,機場大馬路 Avenida do Aeroporto,,F,0,0,F,F,0.0004964663377035,1,1,路氹,True,普通道路,,True
+MC-R01020,1020,230752393,5113,primary,奧林匹克游泳館圓形地 Rotunda da Piscina Olímpica,,F,0,0,F,F,0.0002946914569021,1,1,氹仔,True,普通道路,,True
+MC-R01024,1024,230752407,5113,primary,奧林匹克游泳館圓形地 Rotunda da Piscina Olímpica,,F,0,0,F,F,0.0003852378846869,1,1,氹仔,True,普通道路,,True
+MC-R01176,1176,241677742,5114,secondary,大學大馬路 Avenida da Universidade,,F,0,0,F,F,0.0052915837549393,18,18,氹仔,True,普通道路,,True
+MC-R01190,1190,241677761,5113,primary,大學大馬路 Avenida da Universidade,,F,0,0,F,F,0.0007438843742007,2,2,氹仔,True,普通道路,,True
+MC-R01247,1247,241738662,5114,secondary,石排灣馬路 Estrada de Seac Pai Van,,F,0,0,F,F,0.0018563167424092,6,6,路氹,True,普通道路,,True
+MC-R01249,1249,241738665,5114,secondary,,,F,0,0,F,F,0.0005882719328172,2,0,氹仔,True,普通道路,,True
+MC-R01270,1270,241886408,5113,primary,友誼大橋 Ponte da Amizade,,F,80,1,T,F,0.0007430692017936,2,2,未归区/跨区,True,桥梁,80.0,False
+MC-R01271,1271,241886409,5113,primary,友誼大橋 Ponte da Amizade,,F,80,3,T,F,0.0313752025730395,107,107,澳门半岛,True,桥梁,80.0,False
+MC-R01282,1282,241886432,5114,secondary,科技大學圓形地 Rotunda da Universidade de Ciência e Tecnologia,,F,0,0,F,F,0.0003731936743611,1,1,路氹,True,普通道路,,True
+MC-R01323,1323,244451564,5113,primary,路氹連貫公路圓形地下層行車道 Via de Circulação Desnivelada na Rotunda do Istmo Coloa,,F,60,0,F,F,0.0006865303206278,2,2,未归区/跨区,True,普通道路,60.0,False
+MC-R01392,1392,262652485,5113,primary,西堤圓形地 Rotunda do Dique Oeste,,F,0,0,F,F,0.0009370289789964,3,1,路氹,True,普通道路,,True
+MC-R01393,1393,262652486,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0023328113549086,8,8,路氹,True,普通道路,,True
+MC-R01514,1514,277227254,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0004327112860783,1,1,路氹,True,普通道路,,True
+MC-R01519,1519,277227280,5113,primary,蓮花海濱大馬路 Avenida Marginal Flor de Lótus,,F,0,0,F,F,0.0048126883718635,16,16,氹仔,True,普通道路,,True
+MC-R01599,1599,285704230,5115,tertiary,氹仔東北馬路 Estrada Nordeste da Taipa,,B,0,0,F,F,0.0103340191179672,35,35,氹仔,True,普通道路,,True
+MC-R01606,1606,285846744,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0022680570829906,7,7,氹仔,True,普通道路,,True
+MC-R01609,1609,285846748,5113,primary,機場大馬路 Avenida do Aeroporto,,F,0,0,F,F,0.0015337085966929,5,5,氹仔,True,普通道路,,True
+MC-R01782,1782,291345237,5113,primary,海洋花園大馬路 Avenida dos Jardins do Oceano,,F,0,0,F,F,0.0019643052470191,6,6,氹仔,True,普通道路,,True
+MC-R02002,2002,297728971,5113,primary,蓮花海濱大馬路 Avenida Marginal Flor de Lótus,,F,0,0,F,F,0.0033945600982274,11,11,氹仔,True,普通道路,,True
+MC-R02003,2003,297728972,5113,primary,蓮花海濱大馬路 Avenida Marginal Flor de Lótus,,F,0,0,F,F,0.0058200468629681,19,19,路氹,True,普通道路,,True
+MC-R02285,2285,306158851,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0013379281167201,4,3,氹仔,True,普通道路,,True
+MC-R02305,2305,306158885,5113,primary,蓮花海濱大馬路 Avenida Marginal Flor de Lótus,,F,0,0,F,F,0.0026664205515501,9,9,路氹,True,普通道路,,True
+MC-R02853,2853,315140075,5113,primary,海濱圓形地 Rotunda Marginal,,F,0,0,F,F,0.0009697147155734,3,3,路氹,True,普通道路,,True
+MC-R02885,2885,317670569,5113,primary,友誼大橋 Ponte da Amizade,,F,80,3,T,F,0.0299960535090268,102,102,澳门半岛,True,桥梁,80.0,False
+MC-R02959,2959,321628376,5113,primary,石排灣馬路 Estrada de Seac Pai Van,,F,0,0,F,F,0.0011793469120954,4,4,路氹,True,普通道路,,True
+MC-R03015,3015,322859473,5113,primary,路氹連貫公路圓形地下層行車道 Via de Circulação Desnivelada na Rotunda do Istmo Coloa,,F,60,0,F,F,0.0007013274950939,2,2,路氹,True,普通道路,60.0,False
+MC-R03017,3017,322859475,5113,primary,路氹連貫公路圓形地下層行車道 Via de Circulação Desnivelada na Rotunda do Istmo Coloa,,F,60,0,F,F,0.0014638775112811,5,5,路氹,True,普通道路,60.0,False
+MC-R03018,3018,322859476,5113,primary,路氹連貫公路圓形地下層行車道 Via de Circulação Desnivelada na Rotunda do Istmo Coloa,,F,60,0,F,F,0.0014722738938835,5,5,路氹,True,普通道路,60.0,False
+MC-R03019,3019,322859477,5113,primary,路氹連貫公路圓形地下層行車道 Via de Circulação Desnivelada na Rotunda do Istmo Coloa,,F,60,-2,F,T,0.0020376463229304,6,6,氹仔,True,隧道,60.0,False
+MC-R03020,3020,322859478,5113,primary,路氹連貫公路圓形地下層行車道 Via de Circulação Desnivelada na Rotunda do Istmo Coloa,,F,60,-2,F,T,0.0021284619389686,7,7,氹仔,True,隧道,60.0,False
+MC-R03040,3040,325413802,5113,primary,東亞運大馬路 Avenida dos Jogos da Ásia Oriental,,F,0,0,F,F,0.0028628034529495,9,9,氹仔,True,普通道路,,True
+MC-R03160,3160,330622212,5113,primary,海洋大馬路 Avenida do Oceano,,F,0,0,F,F,0.0026558406027455,9,9,氹仔,True,普通道路,,True
+MC-R03238,3238,333975726,5115,tertiary,十月初五馬路 Avenida de Cinco de Outubro,,F,0,0,F,F,0.0005769001613782,1,1,路环,True,普通道路,,True
+MC-R03271,3271,337378423,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0005925798278083,2,2,路氹,True,普通道路,,True
+MC-R03403,3403,370219347,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0024006959478298,8,8,路氹,True,普通道路,,True
+MC-R03404,3404,370219348,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0005872660582458,2,2,氹仔,True,普通道路,,True
+MC-R03405,3405,370219349,5113,primary,路氹連貫公路 Estrada do Istmo,,F,40,0,F,F,0.0032185921162593,11,11,路氹,True,普通道路,40.0,False
+MC-R03427,3427,377626470,5114,secondary,霍英東博士大馬路 Avenida Doutor Henry Fok,,F,0,0,F,F,0.0033767086032836,11,11,氹仔,True,普通道路,,True
+MC-R03542,3542,384707135,5114,secondary,九澳隧道 Túnel de Ká Hó,,F,50,-1,F,T,0.0040606340703243,13,0,路环,True,隧道,50.0,False
+MC-R03543,3543,384707136,5114,secondary,,,F,50,0,F,F,0.00090497817684,3,3,路氹,True,普通道路,50.0,False
+MC-R03544,3544,384707138,5114,secondary,,,F,50,1,T,F,0.0036737988880548,12,10,路氹,True,桥梁,50.0,False
+MC-R04065,4065,409016594,5113,primary,蓮花海濱大馬路 Avenida Marginal Flor de Lótus,,F,0,0,F,F,0.0003189812728267,1,1,氹仔,True,普通道路,,True
+MC-R04066,4066,409016595,5113,primary,蓮花海濱大馬路 Avenida Marginal Flor de Lótus,,F,0,0,F,F,0.0004834559762577,1,1,氹仔,True,普通道路,,True
+MC-R04374,4374,428421315,5113,primary,離島醫院大馬路 Avenida do Hospital das Ilhas,,F,0,0,F,F,0.0089306436981086,30,1,路氹,True,普通道路,,True
+MC-R04433,4433,437454787,5113,primary,澳大河底隧道 Túnel para o Novo Campus da Universidade de Macau,,F,50,-2,F,T,0.0107236856788861,36,22,未归区/跨区,True,隧道,50.0,False
+MC-R04434,4434,437454788,5113,primary,澳大河底隧道 Túnel para o Novo Campus da Universidade de Macau,,F,50,0,F,F,0.0018270833068133,6,6,氹仔,True,普通道路,50.0,False
+MC-R04488,4488,463244590,5113,primary,運動場道 Avenida do Estádio,,F,0,0,F,F,0.0016635965936197,5,5,氹仔,True,普通道路,,True
+MC-R04497,4497,467615880,5113,primary,,,F,80,1,T,F,0.0024805757169385,8,8,未归区/跨区,True,桥梁,80.0,False
+MC-R04537,4537,477827202,5114,secondary,,,F,0,0,F,F,0.001622335569031,5,0,未归区/跨区,True,普通道路,,True
+MC-R04677,4677,491437045,5114,secondary,青洲河邊馬路 Estrada Marginal da Ilha Verde,,F,0,0,F,F,0.0023277331553502,7,7,澳门半岛,True,普通道路,,True
+MC-R04686,4686,491457515,5113,primary,友誼大橋 Ponte da Amizade,,F,80,1,T,F,0.0010666223341134,3,3,未归区/跨区,True,桥梁,80.0,False
+MC-R04687,4687,491458381,5113,primary,北安大馬路 Estrada de Pac On,,F,0,0,F,F,0.000576200817092,1,1,氹仔,True,普通道路,,True
+MC-R04696,4696,491467616,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0025390371149089,8,8,路氹,True,普通道路,,True
+MC-R04697,4697,491467617,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0023296331045493,7,7,氹仔,True,普通道路,,True
+MC-R04699,4699,491628598,5113,primary,石排灣馬路 Estrada de Seac Pai Van,,F,0,0,F,F,0.0004395769721932,1,1,路氹,True,普通道路,,True
+MC-R04817,4817,513963908,5114,secondary,石排灣水塘街 Rua do Reservatório de Seac Pai Van,,B,0,0,F,F,0.0038299327205055,13,0,路环,True,普通道路,,True
+MC-R04849,4849,514715386,5113,primary,港珠澳邊檢南大馬路 Avenida Sul Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0013373533444837,4,0,未归区/跨区,True,普通道路,,True
+MC-R05101,5101,533193457,5114,secondary,,,F,0,0,F,T,0.0004772160378339,1,0,澳门半岛,True,隧道,,True
+MC-R05184,5184,545595822,5113,primary,港珠澳口岸環形馬路 Estrada Circular Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0011737358845184,4,0,未归区/跨区,True,普通道路,,True
+MC-R05236,5236,548115201,5113,primary,港珠澳邊檢南大馬路 Avenida Sul Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0011984843363778,4,0,未归区/跨区,True,普通道路,,True
+MC-R05241,5241,548115215,5113,primary,風順大馬路行車天橋 Viaduto da Avenida de Bonança,,F,0,1,T,F,0.0013373351726416,4,0,未归区/跨区,True,桥梁,,True
+MC-R05243,5243,548115218,5113,primary,,,F,0,1,T,F,0.0007236633913689,2,0,未归区/跨区,True,桥梁,,True
+MC-R05253,5253,548115269,5114,secondary,東城第六街 Rua Seis da Zona Este,,F,0,0,F,F,0.0048151445475862,16,0,未归区/跨区,True,普通道路,,True
+MC-R05255,5255,548115278,5113,primary,馬萬祺博士大馬路 Avenida Doutor Ma Man Kei,,F,0,1,T,F,0.0016436360979958,5,0,未归区/跨区,True,桥梁,,True
+MC-R05269,5269,548518760,5113,primary,,,F,0,0,F,F,0.0008174618334104,2,0,未归区/跨区,True,普通道路,,True
+MC-R05297,5297,552720211,5113,primary,東城中大馬路 Avenida Central da Zona Este,,F,0,1,T,F,0.0019416324013978,6,0,未归区/跨区,True,桥梁,,True
+MC-R05298,5298,552720212,5113,primary,東城中大馬路 Avenida Central da Zona Este,,F,0,1,T,F,0.0019425833715196,6,0,未归区/跨区,True,桥梁,,True
+MC-R05299,5299,552720213,5115,tertiary,港珠澳口岸環形馬路 Estrada Circular Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0026110573431656,8,0,未归区/跨区,True,普通道路,,True
+MC-R05308,5308,552723196,5113,primary,風順大馬路行車天橋 Viaduto da Avenida de Bonança,,F,0,1,T,F,0.0005248743573722,1,0,未归区/跨区,True,桥梁,,True
+MC-R05314,5314,552723202,5113,primary,港珠澳邊檢北大馬路 Avenida Norte Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0011783103722014,4,0,未归区/跨区,True,普通道路,,True
+MC-R05322,5322,552830330,5113,primary,港珠澳邊檢南大馬路 Avenida Sul Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0018568292137941,6,0,未归区/跨区,True,普通道路,,True
+MC-R05348,5348,554181217,5113,primary,奧林匹克游泳館圓形地行車天橋 Viaduto da Rotunda da Piscina Olímpica,,F,40,1,T,F,0.0042412961322486,14,13,路氹,True,桥梁,40.0,False
+MC-R05349,5349,554181220,5113,primary,奧林匹克游泳館圓形地行車天橋 Viaduto da Rotunda da Piscina Olímpica,,F,40,1,T,F,0.0067044563155907,23,23,氹仔,True,桥梁,40.0,False
+MC-R05533,5533,579264678,5113,primary,港珠澳邊檢北大馬路 Avenida Norte Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0003881421340156,1,0,未归区/跨区,True,普通道路,,True
+MC-R05535,5535,579264681,5113,primary,港珠澳邊檢北大馬路 Avenida Norte Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0003623966460625,1,0,未归区/跨区,True,普通道路,,True
+MC-R05540,5540,579264687,5113,primary,港珠澳邊檢北大馬路 Avenida Norte Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0007093561639598,2,0,未归区/跨区,True,普通道路,,True
+MC-R05696,5696,630448303,5113,primary,澳大河底隧道 Túnel para o Novo Campus da Universidade de Macau,,F,50,-2,F,T,0.0107010581018746,36,30,未归区/跨区,True,隧道,50.0,False
+MC-R05727,5727,635696593,5113,primary,澳門大橋 Ponte Macau,,F,80,2,T,F,0.021473846915459,73,0,未归区/跨区,True,桥梁,80.0,False
+MC-R05729,5729,635696620,5113,primary,澳門橋大馬路 Avenida da Ponte Macau,,F,0,0,F,F,0.002858156280653,9,0,未归区/跨区,True,普通道路,,True
+MC-R05730,5730,635696630,5113,primary,澳門橋大馬路 Avenida da Ponte Macau,,F,0,0,F,F,0.0040021225469562,13,0,未归区/跨区,True,普通道路,,True
+MC-R05731,5731,635696631,5113,primary,澳門橋大馬路 Avenida da Ponte Macau,,F,0,0,F,F,0.0083214576761004,28,0,未归区/跨区,True,普通道路,,True
+MC-R05732,5732,635696632,5113,primary,澳門橋大馬路 Avenida da Ponte Macau,,F,0,0,F,F,0.0019793571970209,6,0,未归区/跨区,True,普通道路,,True
+MC-R05733,5733,635696633,5113,primary,澳門橋大馬路 Avenida da Ponte Macau,,F,0,0,F,F,0.001363027592053,4,0,未归区/跨区,True,普通道路,,True
+MC-R05737,5737,635696638,5113,primary,風順大馬路行車天橋 Viaduto da Avenida de Bonança,,F,0,2,T,F,0.002262674567282,7,0,未归区/跨区,True,桥梁,,True
+MC-R05738,5738,635696640,5113,primary,風順大馬路行車天橋 Viaduto da Avenida de Bonança,,F,0,2,T,F,0.0020071879641449,6,0,未归区/跨区,True,桥梁,,True
+MC-R05740,5740,635696643,5113,primary,澳門大橋 Ponte Macau,,F,80,0,F,F,0.0004784023738231,1,0,未归区/跨区,True,普通道路,80.0,False
+MC-R05741,5741,635696644,5113,primary,澳門大橋 Ponte Macau,,F,80,0,F,F,0.0003193868916245,1,0,未归区/跨区,True,普通道路,80.0,False
+MC-R05745,5745,638082216,5113,primary,港珠澳邊檢北大馬路 Avenida Norte Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0016346650300451,5,0,未归区/跨区,True,普通道路,,True
+MC-R05746,5746,638106387,5114,secondary,泰安大馬路 Avenida de Tai On,,F,0,2,T,F,0.0047437106725521,16,6,澳门半岛,True,桥梁,,True
+MC-R05747,5747,638684285,5113,primary,港珠澳邊檢北大馬路 Avenida Norte Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0011405795016481,3,0,未归区/跨区,True,普通道路,,True
+MC-R05749,5749,638684290,5113,primary,港珠澳邊檢南大馬路 Avenida Sul Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0007090730967143,2,0,未归区/跨区,True,普通道路,,True
+MC-R05755,5755,639534830,5113,primary,港珠澳口岸環形馬路 Estrada Circular Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.001256500125149,4,0,未归区/跨区,True,普通道路,,True
+MC-R05756,5756,639534833,5115,tertiary,港珠澳口岸環形馬路 Estrada Circular Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0023595536983444,8,0,未归区/跨区,True,普通道路,,True
+MC-R05768,5768,639534878,5113,primary,港珠澳邊檢北大馬路 Avenida Norte Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,T,0.0012018302374363,4,0,未归区/跨区,True,隧道,,True
+MC-R05769,5769,639534882,5113,primary,港珠澳邊檢北大馬路 Avenida Norte Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0010816558436511,3,0,未归区/跨区,True,普通道路,,True
+MC-R05770,5770,639534885,5113,primary,港珠澳邊檢北大馬路 Avenida Norte Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0031620874078506,10,0,未归区/跨区,True,普通道路,,True
+MC-R05772,5772,639537870,5113,primary,港珠澳邊檢南大馬路 Avenida Sul Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0012905173570585,4,0,未归区/跨区,True,普通道路,,True
+MC-R05775,5775,639537873,5113,primary,港珠澳邊檢南大馬路 Avenida Sul Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.003088622915412,10,0,未归区/跨区,True,普通道路,,True
+MC-R05784,5784,639777153,5114,secondary,蓮花大橋 Ponte Flor de Lótus,,F,60,3,T,F,0.0083740631379568,28,2,未归区/跨区,True,桥梁,60.0,False
+MC-R05787,5787,640032664,5113,primary,港珠澳邊檢南大馬路 Avenida Sul Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0022569302375761,7,0,未归区/跨区,True,普通道路,,True
+MC-R05873,5873,643103587,5113,primary,港珠澳邊檢北大馬路 Avenida Norte Fronteiriça de Hong Kong-Zhuhai-Macau,,F,0,0,F,F,0.0023930129313001,8,0,未归区/跨区,True,普通道路,,True
+MC-R05954,5954,651819277,5114,secondary,,,F,0,0,F,F,0.0007098119840121,2,0,澳门半岛,True,普通道路,,True
+MC-R06023,6023,658651595,5113,primary,港珠澳邊檢南大馬路,,F,0,0,F,F,0.0004670470800678,1,0,未归区/跨区,True,普通道路,,True
+MC-R06325,6325,679363557,5114,secondary,,,F,50,1,T,F,0.0037826370587086,12,10,路氹,True,桥梁,50.0,False
+MC-R06326,6326,679365019,5114,secondary,九澳隧道 Túnel de Ká Hó,,F,50,-1,F,T,0.0044235960477181,15,2,路环,True,隧道,50.0,False
+MC-R06358,6358,680826305,5115,tertiary,鄉村馬路 Estrada da Aldeia,,B,0,0,F,F,0.0120745105839854,41,41,路环,True,普通道路,,True
+MC-R07025,7025,712540286,5115,tertiary,譚公廟前地 Largo Tam Kong Miu,,F,0,0,F,F,0.0004321263495157,1,1,路环,True,普通道路,,True
+MC-R07308,7308,744614674,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.001247257417582,4,4,路氹,True,普通道路,,True
+MC-R07309,7309,744614675,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0026122843787123,8,8,路氹,True,普通道路,,True
+MC-R07310,7310,744614676,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0014808882491745,5,4,路氹,True,普通道路,,True
+MC-R07311,7311,744614677,5113,primary,望德聖母灣大馬路 Estrada da Baía de Nossa Senhora da Esperança,,F,0,0,F,F,0.0015747839671012,5,5,路氹,True,普通道路,,True
+MC-R07391,7391,748863226,5113,primary,石排灣馬路 Estrada de Seac Pai Van,,F,0,0,F,F,0.0012670283280556,4,4,路氹,True,普通道路,,True
+MC-R07393,7393,748863233,5113,primary,石排灣圓形地 Rotunda de Seac Pai Van,,B,0,0,F,F,0.0003123693793264,1,1,路环,True,普通道路,,True
+MC-R07892,7892,771793936,5115,tertiary,十月初五馬路 Avenida de Cinco de Outubro,,F,0,0,F,F,0.0013612892047889,4,4,路环,True,普通道路,,True
+MC-R07893,7893,771793937,5115,tertiary,十月初五馬路 Avenida de Cinco de Outubro,,F,0,0,F,F,0.0017419240444754,5,5,路环,True,普通道路,,True
+MC-R07935,7935,771918841,5113,primary,路氹連貫公路圓形地 Rotunda do Istmo,,F,0,0,F,F,0.0003264946944512,1,1,氹仔,True,普通道路,,True
+MC-R07936,7936,771918842,5113,primary,路氹連貫公路圓形地 Rotunda do Istmo,,F,0,0,F,F,0.0003324603230594,1,1,氹仔,True,普通道路,,True
+MC-R07938,7938,771918844,5113,primary,路氹連貫公路圓形地 Rotunda do Istmo,,F,0,0,F,F,0.0006558001213765,2,2,氹仔,True,普通道路,,True
+MC-R08045,8045,774703399,5113,primary,路氹連貫公路 Estrada do Istmo,,F,0,0,F,F,0.0037770111673525,12,12,路氹,True,普通道路,,True
+MC-R08050,8050,774703406,5113,primary,石排灣馬路 Estrada de Seac Pai Van,,F,0,0,F,F,0.0015963327946457,5,5,路氹,True,普通道路,,True
+MC-R08052,8052,774703414,5113,primary,石排灣馬路 Estrada de Seac Pai Van,,F,0,0,F,F,0.0010800442183873,3,3,路氹,True,普通道路,,True
+MC-R08082,8082,775193311,5113,primary,機場大馬路 Avenida do Aeroporto,,F,0,0,F,F,0.0006015496640432,2,2,未归区/跨区,True,普通道路,,True
+MC-R08084,8084,775193314,5113,primary,機場大馬路 Avenida do Aeroporto,,F,0,0,F,F,0.0013534681720925,4,4,路氹,True,普通道路,,True
+MC-R08311,8311,781471157,5113,primary,機場大馬路 Avenida do Aeroporto,,F,0,0,F,F,0.0046598370785475,15,15,路氹,True,普通道路,,True
+MC-R08614,8614,806854993,5113,primary,離島醫院大馬路 Avenida do Hospital das Ilhas,,F,0,0,F,F,0.0043656995860936,14,0,路氹,True,普通道路,,True
+MC-R09010,9010,820104111,5113,primary,路氹連貫公路圓形地 Rotunda do Istmo,,F,0,0,F,F,0.0005053319846868,1,1,氹仔,True,普通道路,,True
+MC-R09013,9013,820104114,5113,primary,石排灣圓形地 Rotunda de Seac Pai Van,,B,0,0,F,F,0.0003101544435924,1,1,路环,True,普通道路,,True
+MC-R09132,9132,820959409,5114,secondary,大學南圓形地 Rotunda da Universidade Sul,,F,0,0,F,F,0.0003624615335716,1,1,氹仔,True,普通道路,,True
+MC-R09312,9312,827849311,5114,secondary,石排灣馬路 Estrada de Seac Pai Van,,F,0,0,F,F,0.0012092872407082,4,4,路氹,True,普通道路,,True
+MC-R09419,9419,839634424,5114,secondary,蓮花大橋 Ponte Flor de Lótus,,F,60,3,T,F,0.0083719748441574,28,3,未归区/跨区,True,桥梁,60.0,False
+MC-R09448,9448,851359758,5113,primary,澳門大橋 Ponte Macau,,F,80,2,T,F,0.0194263019091412,66,0,未归区/跨区,True,桥梁,80.0,False
+MC-R09458,9458,864687770,5114,secondary,澳門大學連接橫琴口岸通道橋 Ponte de Acesso que liga a Universidade de Macau o Posto Fro,,F,40,2,T,F,0.0030974165103006,10,2,未归区/跨区,True,桥梁,40.0,False
+MC-R09476,9476,868200740,5113,primary,風順大馬路 Avenida de Bonança,,F,0,0,F,F,0.0006037601750868,2,0,未归区/跨区,True,普通道路,,True
+MC-R09477,9477,868200741,5113,primary,風順大馬路 Avenida de Bonança,,F,0,0,F,F,0.0007568089955689,2,0,未归区/跨区,True,普通道路,,True
+MC-R09595,9595,895548372,5114,secondary,澳門大學連接橫琴口岸通道橋 Ponte de Acesso que liga a Universidade de Macau o Posto Fro,,T,40,2,T,F,0.0031703096243598,10,3,未归区/跨区,True,桥梁,40.0,False
+MC-R09632,9632,920612615,5113,primary,大學大馬路 Avenida da Universidade,,F,0,0,F,F,0.000664664891742,2,2,氹仔,True,普通道路,,True
+MC-R09793,9793,948715185,5113,primary,奧林匹克游泳館圓形地行車天橋 Viaduto da Rotunda da Piscina Olímpica,,F,0,1,T,F,0.0038005223980898,13,13,氹仔,True,桥梁,,True
+MC-R10043,10043,977026265,5114,secondary,青洲河邊馬路 Estrada Marginal da Ilha Verde,,F,0,0,F,F,0.0005140469224838,1,1,澳门半岛,True,普通道路,,True
+MC-R10051,10051,977026273,5114,secondary,青洲河邊馬路 Estrada Marginal da Ilha Verde,,F,0,0,F,F,0.0008116043782457,2,2,澳门半岛,True,普通道路,,True
+MC-R10171,10171,985157346,5113,primary,東亞運大馬路 Avenida dos Jogos da Ásia Oriental,,F,0,0,F,F,0.0096291531573088,33,33,氹仔,True,普通道路,,True
+MC-R10172,10172,985157347,5113,primary,東亞運大馬路 Avenida dos Jogos da Ásia Oriental,,F,60,0,F,F,0.0089665015540289,30,30,氹仔,True,普通道路,60.0,False
+MC-R10242,10242,987267284,5113,primary,,,F,0,0,F,F,0.0003803462444915,1,1,路氹,True,普通道路,,True
+MC-R10283,10283,997468373,5113,primary,北安大馬路 Estrada de Pac On,,F,0,0,F,F,0.0015277443764796,5,5,氹仔,True,普通道路,,True
+MC-R10360,10360,1014961733,5113,primary,石排灣馬路 Estrada de Seac Pai Van,,F,0,0,F,F,0.0003692149717016,1,1,路氹,True,普通道路,,True
+MC-R10383,10383,1016933263,5113,primary,,,F,0,0,F,F,0.000932405200868,3,3,路氹,True,普通道路,,True
+MC-R10384,10384,1016933264,5113,primary,,,F,0,0,F,F,0.0010194875926299,3,2,路氹,True,普通道路,,True
+MC-R11066,11066,1102619689,5113,primary,澳門橋大馬路 Avenida da Ponte Macau,,F,0,0,F,F,0.0018882176249825,6,0,未归区/跨区,True,普通道路,,True
+MC-R11312,11312,1149042497,5113,primary,澳門橋大馬路 Avenida da Ponte Macau,,F,0,0,F,F,0.0005291418917289,1,0,未归区/跨区,True,普通道路,,True
+MC-R11313,11313,1149042500,5114,secondary,東城第五街 Rua Cinco da Zona Este,,F,0,0,F,F,0.0013777358469958,4,0,未归区/跨区,True,普通道路,,True
+MC-R11355,11355,1155231754,5113,primary,馬萬祺博士大馬路 Avenida Doutor Ma Man Kei,,F,0,1,T,F,0.0018620539279633,6,0,未归区/跨区,True,桥梁,,True
+MC-R11407,11407,1167299851,5113,primary,,,F,0,0,F,F,0.0008328937501013,2,0,未归区/跨区,True,普通道路,,True
+MC-R12150,12150,1241631447,5113,primary,,,F,0,0,F,F,0.000501032095037,1,1,路氹,True,普通道路,,True
+MC-R12185,12185,1246039237,5114,secondary,,,F,0,0,F,F,0.0044404599899716,15,0,未归区/跨区,True,普通道路,,True
+MC-R12186,12186,1246039240,5114,secondary,濠江大馬路 Avenida Hou Kong,,F,0,0,F,F,0.0020092355807551,6,0,未归区/跨区,True,普通道路,,True
+MC-R12439,12439,1299806096,5115,tertiary,,,F,0,0,F,F,0.0008863919395467,3,3,路氹,True,普通道路,,True
+MC-R12442,12442,1299806099,5113,primary,西堤圓形地 Rotunda do Dique Oeste,,F,0,0,F,F,0.0003422176898795,1,0,路氹,True,普通道路,,True
+MC-R12660,12660,1311043377,5113,primary,,,F,0,0,F,F,0.0007259922406505,2,0,未归区/跨区,True,普通道路,,True
+MC-R12832,12832,1316734553,5113,primary,澳門橋大馬路 Avenida da Ponte Macau,,F,0,0,F,F,0.000677958647567,2,0,未归区/跨区,True,普通道路,,True
+MC-R12833,12833,1316734554,5113,primary,風順大馬路行車天橋 Viaduto da Avenida de Bonança,,F,0,2,T,F,0.000840701076726,2,0,未归区/跨区,True,桥梁,,True
+MC-R12834,12834,1316734555,5113,primary,風順大馬路行車天橋 Viaduto da Avenida de Bonança,,F,0,2,T,F,0.0009949621172644,3,0,未归区/跨区,True,桥梁,,True
+MC-R12835,12835,1316734556,5113,primary,澳門橋大馬路 Avenida da Ponte Macau,,F,0,0,F,F,0.0013286611279341,4,0,未归区/跨区,True,普通道路,,True
+MC-R12836,12836,1316734557,5113,primary,,,F,0,0,F,F,0.0005478633524761,1,0,未归区/跨区,True,普通道路,,True
+MC-R12837,12837,1316734560,5114,secondary,濠江大馬路 Avenida Hou Kong,,F,0,0,F,F,0.0035505542543694,12,0,未归区/跨区,True,普通道路,,True
+MC-R12841,12841,1317051211,5114,secondary,鏡海大馬路 Avenida do Mar de Espelho,,F,0,0,F,F,0.0013906495994935,4,0,未归区/跨区,True,普通道路,,True
+MC-R12861,12861,1319410178,5113,primary,澳門大橋 Ponte Macau,,F,80,2,T,F,0.002681373739331,9,0,氹仔,True,桥梁,80.0,False
+MC-R12863,12863,1319410180,5113,primary,澳門大橋 Ponte Macau,,F,60,2,T,F,0.0022826721135038,7,0,氹仔,True,桥梁,60.0,False
+MC-R12864,12864,1319410181,5113,primary,澳門大橋 Ponte Macau,,F,80,2,T,F,0.0096325694220769,33,0,未归区/跨区,True,桥梁,80.0,False
+MC-R12865,12865,1319410182,5113,primary,澳門大橋 Ponte Macau,,F,80,2,T,F,0.0071990421130067,24,0,未归区/跨区,True,桥梁,80.0,False
+MC-R12885,12885,1319920280,5113,primary,澳門大橋 Ponte Macau,,F,80,2,T,F,0.0005924689840087,2,0,氹仔,True,桥梁,80.0,False
+MC-R12953,12953,1331842982,5114,secondary,,,F,0,0,F,F,0.001578671863864,5,0,未归区/跨区,True,普通道路,,True
+MC-R12999,12999,1349337785,5113,primary,,,F,0,0,F,F,0.0004533473464439,1,0,未归区/跨区,True,普通道路,,True
